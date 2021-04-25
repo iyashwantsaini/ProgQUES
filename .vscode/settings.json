@@ -3,7 +3,9 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp"
     },
     "compile-hero.disable-compile-files-on-did-save-code": false
 }
